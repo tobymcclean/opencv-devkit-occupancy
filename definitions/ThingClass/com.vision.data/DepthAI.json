@@ -1,0 +1,14 @@
+{
+    "name": "DepthAICamera",
+    "context": "com.vision.data",
+    "version": "v1.0",
+    "description": "A vision pipeline thing",
+    "inputs": [
+    ],
+    "outputs": [
+        {
+            "name": "DetectionBoxData",
+            "tagGroupId": "DepthDetectionBox:com.vision.data:v1.0"
+        }
+    ]
+}
